@@ -1,9 +1,11 @@
 package com.cq.magicindicator.buildins.commonnavigator.abs;
 
 /**
- * 可测量内容区域的指示器标题
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.abs
+  * @ClassName:      IMeasurablePagerTitleView
+  * @Description:    可测量内容区域的指示器标题
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:53 PM
  */
 public interface IMeasurablePagerTitleView extends IPagerTitleView {
     int getContentLeft();

@@ -8,9 +8,11 @@ import com.cq.magicindicator.buildins.commonnavigator.abs.IMeasurablePagerTitleV
 import com.cq.magicindicator.buildins.commonnavigator.abs.IPagerTitleView;
 
 /**
- * 支持显示角标的title，角标布局可自定义
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/7/18.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.titles.badge
+  * @ClassName:      BadgePagerTitleView
+  * @Description:    支持显示角标的title，角标布局可自定义
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:52 PM
  */
 public class BadgePagerTitleView extends FrameLayout implements IMeasurablePagerTitleView {
     private IPagerTitleView mInnerPagerTitleView;

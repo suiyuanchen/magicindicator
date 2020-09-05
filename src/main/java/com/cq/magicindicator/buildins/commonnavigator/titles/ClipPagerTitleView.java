@@ -8,11 +8,12 @@ import android.view.View;
 
 import com.cq.magicindicator.buildins.UIUtil;
 import com.cq.magicindicator.buildins.commonnavigator.abs.IMeasurablePagerTitleView;
-
 /**
- * 类似今日头条切换效果的指示器标题
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.titles
+  * @ClassName:      ClipPagerTitleView
+  * @Description:    类似今日头条切换效果的指示器标题
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:52 PM
  */
 public class ClipPagerTitleView extends View implements IMeasurablePagerTitleView {
     private String mText;

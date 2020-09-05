@@ -19,9 +19,11 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * 贝塞尔曲线ViewPager指示器，带颜色渐变
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.indicators
+  * @ClassName:      BezierPagerIndicator
+  * @Description:    贝塞尔曲线ViewPager指示器，带颜色渐变
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:52 PM
  */
 public class BezierPagerIndicator extends View implements IPagerIndicator {
     private List<PositionData> mPositionDataList;

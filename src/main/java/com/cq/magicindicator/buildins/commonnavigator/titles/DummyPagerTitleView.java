@@ -6,9 +6,11 @@ import android.view.View;
 import com.cq.magicindicator.buildins.commonnavigator.abs.IPagerTitleView;
 
 /**
- * 空指示器标题，用于只需要指示器而不需要title的需求
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.titles
+  * @ClassName:      DummyPagerTitleView
+  * @Description:    空指示器标题，用于只需要指示器而不需要title的需求
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:51 PM
  */
 public class DummyPagerTitleView extends View implements IPagerTitleView {
 

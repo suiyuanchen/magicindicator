@@ -1,9 +1,11 @@
 package com.cq.magicindicator.buildins.commonnavigator.model;
 
 /**
- * 保存指示器标题的坐标
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.model
+  * @ClassName:      PositionData
+  * @Description:    保存指示器标题的坐标
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:52 PM
  */
 public class PositionData {
     public int mLeft;

@@ -3,11 +3,12 @@ package com.cq.magicindicator.buildins.commonnavigator.abs;
 import android.content.Context;
 import android.database.DataSetObservable;
 import android.database.DataSetObserver;
-
 /**
- * CommonNavigator适配器，通过它可轻松切换不同的指示器样式
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.abs
+  * @ClassName:      CommonNavigatorAdapter
+  * @Description:    CommonNavigator适配器，通过它可轻松切换不同的指示器样式
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:53 PM
  */
 public abstract class CommonNavigatorAdapter {
 

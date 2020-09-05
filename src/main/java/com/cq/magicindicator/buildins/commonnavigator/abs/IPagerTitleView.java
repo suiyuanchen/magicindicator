@@ -1,9 +1,11 @@
 package com.cq.magicindicator.buildins.commonnavigator.abs;
 
 /**
- * 抽象的指示器标题，适用于CommonNavigator
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.abs
+  * @ClassName:      IPagerTitleView
+  * @Description:    抽象的指示器标题，适用于CommonNavigator
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:54 PM
  */
 public interface IPagerTitleView {
     /**

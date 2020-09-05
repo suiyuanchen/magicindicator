@@ -17,9 +17,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 圆圈式的指示器
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.circlenavigator
+  * @ClassName:      CircleNavigator
+  * @Description:    圆圈式的指示器
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:54 PM
  */
 public class CircleNavigator extends View implements IPagerNavigator {
     private int mRadius;

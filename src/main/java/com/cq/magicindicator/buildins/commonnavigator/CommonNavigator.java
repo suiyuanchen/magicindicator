@@ -23,9 +23,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 通用的ViewPager指示器，包含PagerTitle和PagerIndicator
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator
+  * @ClassName:      CommonNavigator
+  * @Description:    通用的ViewPager指示器，包含PagerTitle和PagerIndicator
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:51 PM
  */
 public class CommonNavigator extends FrameLayout implements IPagerNavigator, NavigatorHelper.OnNavigatorScrollListener {
     private HorizontalScrollView mScrollView;

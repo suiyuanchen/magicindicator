@@ -13,11 +13,12 @@ import com.cq.magicindicator.buildins.commonnavigator.model.PositionData;
 
 import java.util.List;
 
-
 /**
- * 用于测试的指示器，可用来检测自定义的IMeasurablePagerTitleView是否正确测量内容区域
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.indicators
+  * @ClassName:      TestPagerIndicator
+  * @Description:    用于测试的指示器，可用来检测自定义的IMeasurablePagerTitleView是否正确测量内容区域
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:53 PM
  */
 public class TestPagerIndicator extends View implements IPagerIndicator {
     private Paint mPaint;

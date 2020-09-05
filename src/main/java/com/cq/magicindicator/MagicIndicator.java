@@ -8,9 +8,11 @@ import android.widget.FrameLayout;
 import com.cq.magicindicator.abs.IPagerNavigator;
 
 /**
- * 整个框架的入口，核心
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator
+  * @ClassName:      MagicIndicator
+  * @Description:    整个框架的入口，核心
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:50 PM
  */
 public class MagicIndicator extends FrameLayout {
     private IPagerNavigator mNavigator;

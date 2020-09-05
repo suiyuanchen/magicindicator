@@ -13,10 +13,12 @@ import com.cq.magicindicator.buildins.commonnavigator.model.PositionData;
 import java.util.ArrayList;
 import java.util.List;
 
-
 /**
- * 使得MagicIndicator在FragmentContainer中使用
- * Created by hackware on 2016/9/4.
+  * @Package:        com.cq.magicindicator
+  * @ClassName:      FragmentContainerHelper
+  * @Description:    使得MagicIndicator在FragmentContainer中使用
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:50 PM
  */
 
 @TargetApi(Build.VERSION_CODES.HONEYCOMB)

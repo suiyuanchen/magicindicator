@@ -1,10 +1,11 @@
 package com.cq.magicindicator.buildins;
 
-
 /**
- * 实现颜色渐变，考虑到兼容性，不使用内置的ArgbEvaluator
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins
+  * @ClassName:      ArgbEvaluatorHolder
+  * @Description:    实现颜色渐变，考虑到兼容性，不使用内置的ArgbEvaluator
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:50 PM
  */
 public class ArgbEvaluatorHolder {
     public static int eval(float fraction, int startValue, int endValue) {

@@ -11,11 +11,12 @@ import android.widget.TextView;
 import com.cq.magicindicator.buildins.UIUtil;
 import com.cq.magicindicator.buildins.commonnavigator.abs.IMeasurablePagerTitleView;
 
-
 /**
- * 带文本的指示器标题
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.titles
+  * @ClassName:      SimplePagerTitleView
+  * @Description:    带文本的指示器标题
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:51 PM
  */
 public class SimplePagerTitleView extends TextView implements IMeasurablePagerTitleView {
     protected int mSelectedColor;

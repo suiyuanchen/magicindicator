@@ -9,9 +9,11 @@ import android.widget.FrameLayout;
 import com.cq.magicindicator.buildins.commonnavigator.abs.IMeasurablePagerTitleView;
 
 /**
- * 通用的指示器标题，子元素内容由外部提供，事件回传给外部
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/7/3.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.titles
+  * @ClassName:      CommonPagerTitleView
+  * @Description:    通用的指示器标题，子元素内容由外部提供，事件回传给外部
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:51 PM
  */
 public class CommonPagerTitleView extends FrameLayout implements IMeasurablePagerTitleView {
     private OnPagerTitleChangeListener mOnPagerTitleChangeListener;

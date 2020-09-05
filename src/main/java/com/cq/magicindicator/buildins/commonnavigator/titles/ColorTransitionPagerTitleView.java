@@ -5,11 +5,12 @@ import android.graphics.Typeface;
 
 import com.cq.magicindicator.buildins.ArgbEvaluatorHolder;
 
-
 /**
- * 两种颜色过渡的指示器标题
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.titles
+  * @ClassName:      ColorTransitionPagerTitleView
+  * @Description:    两种颜色过渡的指示器标题
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:51 PM
  */
 public class ColorTransitionPagerTitleView extends SimplePagerTitleView {
 

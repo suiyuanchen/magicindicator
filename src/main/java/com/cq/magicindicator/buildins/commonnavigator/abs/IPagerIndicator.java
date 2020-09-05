@@ -6,9 +6,11 @@ import com.cq.magicindicator.buildins.commonnavigator.model.PositionData;
 import java.util.List;
 
 /**
- * 抽象的viewpager指示器，适用于CommonNavigator
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.abs
+  * @ClassName:      IPagerIndicator
+  * @Description:    抽象的viewpager指示器，适用于CommonNavigator
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:54 PM
  */
 public interface IPagerIndicator {
     void onPageScrolled(int position, float positionOffset, int positionOffsetPixels);

@@ -18,9 +18,11 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * 直线viewpager指示器，带颜色渐变
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.indicators
+  * @ClassName:      LinePagerIndicator
+  * @Description:    直线viewpager指示器，带颜色渐变
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:53 PM
  */
 public class LinePagerIndicator extends View implements IPagerIndicator {
     public static final int MODE_MATCH_EDGE = 0;   // 直线宽度 == title宽度 - 2 * mXOffset

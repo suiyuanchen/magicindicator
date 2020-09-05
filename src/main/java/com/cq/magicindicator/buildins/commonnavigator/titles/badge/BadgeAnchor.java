@@ -1,8 +1,11 @@
 package com.cq.magicindicator.buildins.commonnavigator.titles.badge;
 
 /**
- * 角标的锚点
- * Created by hackware on 2016/7/19.
+  * @Package:        com.cq.magicindicator.buildins.commonnavigator.titles.badge
+  * @ClassName:      BadgeAnchor
+  * @Description:    角标的锚点
+  * @Author:         CQ
+  * @CreateDate:     2020/9/5 5:52 PM
  */
 public enum BadgeAnchor {
     LEFT,
